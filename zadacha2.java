@@ -49,17 +49,3 @@ public class zadacha2 {
         }
     }
 }
-
-
-
-
-
-
-
-// try {
-//     FileWriter writer = new FileWriter("/home/eighth/Desktop/JAVA/DZ/DZ_sem2_java/log.txt", true); 
-//     writer.write(text + "\n");
-//     writer.close();
-// } catch (IOException ex) {
-//     System.out.println(ex.getMessage());
-// }
